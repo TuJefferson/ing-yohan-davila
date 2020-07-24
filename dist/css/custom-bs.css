@@ -402,6 +402,10 @@ mark,
   text-align: center;
 }
 
+.img-fluid-copy{
+  max-width: 10%;
+  height: auto; }
+
 .img-fluid {
   max-width: 100%;
   height: auto; }
